@@ -17,9 +17,9 @@ An Aerospace Engineer passionate about spacecraft systems 🛰️, propulsion �
 
 <p align="left">
 	<img title="TensorFlow" src="https://raw.githubusercontent.com/BApplB/BApplB/master/assets/cassandra.svg" width="80" height="40" />
-	<img title="C++" src="https://raw.githubusercontent.com/BApplB/BApplB/master/assets/c.svg" width="40" height="40" />
+	<img title="C++" src="https://raw.githubusercontent.com/BApplB/BApplB/master/assets/c++.svg" width="40" height="40" />
 	<img title="Python" src="https://raw.githubusercontent.com/BApplB/BApplB/master/assets/python.svg" width="40" height="40" />
-	<img title="GCP" src="https://raw.githubusercontent.com/BApplB/Thomas-George-T/master/assets/gcp.svg" width="60" height="40" />
+	<img title="GCP" src="https://raw.githubusercontent.com/BApplB/BApplB/master/assets/gcp.svg" width="60" height="40" />
 	<img title="Git" src="https://raw.githubusercontent.com/BApplB/BApplB/master/assets/git.svg" width="70" height="40" />
 </p>
 
