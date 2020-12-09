@@ -8,10 +8,10 @@ An Aerospace Engineer passionate about spacecraft systems 🛰️, propulsion �
 
 
 - ⚡ **Fun fact:** I helped build and launch a UK-record breaking rocket from Spaceport America, New Mexico in 2019: https://www.youtube.com/watch?v=R5yhD7-Nu-k
-- 🔭 I’m currently working on Big Data for Spacecraft Telemetry systems :satellite:.
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
+- 🔭 I’m currently working on Artificial Intelligence for Spacecraft Telemetry systems :satellite:.
+- :bulb: I'm interested in all things data: **High Performance Computing, Cloud Infrastructure, Machine Learning and Data Science**
 - 💬 Talk to me about planes ✈️, Memes, anything that interests you.
-- 🌱 I’m currently pursuing distributed DBMS.
+- 🌱 I’m currently learning about Apache Cassandra and Kafka.
 
 ### My skills include
 
